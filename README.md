@@ -7,14 +7,7 @@ A fun, interactive **Rock Paper Scissors** game built using **HTML, CSS, and Jav
 ## 🚀 Live Demo
 
 [Click here to play the game](#)  
-*(Add your live deployment link here, e.g., GitHub Pages, Netlify)*
-
----
-
-## 📸 Preview
-
-![Game Screenshot](screenshot.png)  
-*(Optional: Add a screenshot of your game UI)*
+*(https://greeshma-kenche.github.io/rock-paper-scissors/)*
 
 ---
 
@@ -50,6 +43,15 @@ Through this project, I practiced and reinforced the following concepts:
 
 ---
 
+## 📂 File Structure
+
+    rock-paper-scissors/
+    ├── index.html
+    ├── styles.css
+    └── rock_paper_scissors.js
+
+---
+
 ## 🖥️ How to Run This Project Locally
 
 1. **Clone the repo**
@@ -60,15 +62,15 @@ Through this project, I practiced and reinforced the following concepts:
    ```bash
    cd rock-paper-scissors
 
-3. **Open index.html in your browser**
-   You can simply double-click the file, or use Live Server if you're using VS Code
+3. **Open `index.html` in your browser**
 
-## 📂 File Structure
+---
 
-    rock-paper-scissors/
-    ├── index.html
-    ├── styles.css
-    └── rock_paper_scissors.js
+## 📸 Screenshot
+
+![Rock Paper Scissors Screenshot](assets/screenshot.png)
+
+---
 
 ## 📌 Future Improvements
 
