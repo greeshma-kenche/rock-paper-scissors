@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>RPS</title>
+</head>
+<body>
+    <h2><u><i>Rock Paper Scissors</i></u></h2>
+    <div class="container">
+    <button onclick="playGame('rock')">🪨</button>
+    <button onclick="playGame('paper')">📄</button>
+    <button onclick="playGame('scissors')">✂️</button>
+    </div>
+    <div>
+    <h2 class="js-result"></h2>
+    <h2 class="js-score"></h2>
+    <h2><button class="replay" onclick="resetGame()">Play Again!</button></h2>
+    </div>
+
+    <script src="rps.js"></script>
+</body>
+</html>
