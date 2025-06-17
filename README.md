@@ -6,8 +6,7 @@ A fun, interactive **Rock Paper Scissors** game built using **HTML, CSS, and Jav
 
 ## 🚀 Live Demo
 
-[Click here to play the game](#)  
-*(https://greeshma-kenche.github.io/rock-paper-scissors/)*
+👉 [**Try It Live**](https://greeshma-kenche.github.io/rock-paper-scissors/) 
 
 ---
 
